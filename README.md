@@ -19,4 +19,19 @@
 - この店は幅広い品揃えがあるよね。：This store carries a wide variety of items.
 - 日常に必要なもの全て手に入る：We can get everything we need for daily life.
 - 店は忙しいみたい：The store seems busy today. Maybe it's because of the good weather.
-- 
+- 念のため確認させてください。：Just in case, let me confirm that.
+- 私は良い感じだと思いました。：I thought it would be good.
+- これはスコープ外です。：This is out of scope.
+- スコープの対象にします。: I'll make it in scope.
+- スコープの対象から外します。：I will make it out of scope.
+- 海外に住む方が良い。：It is better to live abroad.
+- 早めに確認します。：I'll check it in a hurry.
+- 詳細を話す必要はありますか。：Do I have to talk more details?
+- いつでもいいですよ：Anytime is good for me.
+- 進捗いかがでしょうか。：How is progress here?
+- 頼み事があります。：I have a favor to ask of you.
+- 言いにくいんだけど。。。。：It’s kind of awrkward to say...
+- 私たちは1年ぶりに会った。：We see each other for the first time in a year.
+
+
+
