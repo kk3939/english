@@ -32,6 +32,14 @@
 - 頼み事があります。：I have a favor to ask of you.
 - 言いにくいんだけど。。。。：It’s kind of awrkward to say...
 - 私たちは1年ぶりに会った。：We see each other for the first time in a year.
-
-
-
+- 連絡をとり続ける方法はありますか。：Is there a way we can keep in touch?
+- いつもfacebookとXを使っているよ。あなたも使っている？：I typically use Facebook and X. Do you use them too?
+- インフルエンサーをフォローしているけど、名前を忘れちゃった。：I follow some influencers, but I've forgotten their name.
+- 記念に写真撮れないですか。：As a keepsake, could you take a picture together?
+- 3、2、1チーズ、パシャ：Say cheese on three, two, one.
+- さっき言ったよ、それ。：I mentioned that before.
+- 彼らに会うのを楽しみにしている。：I’m looking forward to seeing them.
+- 何回もその曲を繰り返し聴いている。：I keep listening to the song on repeat.
+- 最近のアルバムに載っている曲の大体が素晴らしいよね。：Almost every songs on the recent album is fantastic.
+- その曲はグラミー賞で受賞した。：It won an award at the Grammy Awards.
+- 
