@@ -42,4 +42,15 @@
 - 何回もその曲を繰り返し聴いている。：I keep listening to the song on repeat.
 - 最近のアルバムに載っている曲の大体が素晴らしいよね。：Almost every songs on the recent album is fantastic.
 - その曲はグラミー賞で受賞した。：It won an award at the Grammy Awards.
-- 
+- 感謝したいのはこっちだよ。：I'm the one who wants to say thank you.
+- K-popが嫌いなわけじゃないよ：It's not like I don't like K-pop.
+- さすがだね：I knew you could do it.
+- わかる。：I know what you mean.
+- 常温の水ください。：Could I have water without ice?
+- やっぱり、このプロジェクトを中止しましょう。：Actually, we should stop this project.
+- 英語でこれって何て言えばいいんでしょう。：How do you say this in this?
+- foreignerって呼ぶの失礼？：Is it rude to call "foreigner"?
+- 嫌じゃなければ案内します。:If you don't mind, I'll show it.
+- 東京で行くべきおすすめの場所ってありますか。：Do you have recommendations of places to go in tokyo?
+- そこに着くまでにどのくらい時間かかる？：How long does it take to get there?
+- 仕事は何してますか？：What do you do for a living?
