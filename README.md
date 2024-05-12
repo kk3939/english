@@ -92,4 +92,8 @@
 - 私は中級レベルだと思う。： I consider myself at an intermediate level.
 - どんな資格が必要だと思いますか：What qualifications do you think are neceasary?
 - プロダクトマネジメントに関わる重要な資格を知ってますか？：Do you know any key qualifications related to a product manager?
-- 
+- ストロベリーと他のフルーツを比較できたりしますか？：Can I compare strawberries with other fruits?
+- 新しい場所でも元気にやってね。：Please continue to do well in your new place.
+- ここ10年の思い出を話したいね。: I`d like to talke about memories from the past decade.
+- これからはゲームが出来なくなる。寂しく思うだろう。:We won't be able to play games together anymore. I'm going to miss doing that.
+- これからどうやって連絡を取り合えば良い？：How can I keep in touch with you?
