@@ -81,4 +81,13 @@
 - 私は少し話しづらい気持ちがある。：I'm feeling a bit uneasy about talking to you.
 - どの仕事をするべきか：Which job I should choose
 - 妻と同僚のサポートに感謝しています。：I am grateful for support by colleagues and wife.
+- あなたが言った帽子の特徴を知りたい。: I would like to know what features the hat you mentioned have.
+- 帽子にあう他の商品をみたい。：I would like to see other items that would go well with the hat.
+- いい買い物だった。：It was a nice purchace.
+- 行き方がわからない：I am not sure about how to get there.
+- 何時ビックベンの時間は見れますか。：Could you tell me what time I can see BigBen's clock?
+- ちょっと話題を変えて、あのショーの最新エピソードを見ましたか？:On a different note, have you seen the latest episode of that show?
+- 最近、ゲームを買って家族とプレイしてます。：Recently, I bought a game that I play at home with my family.
+- ここ数年はプロダクトマネジメントを追求したい。：I would like to pursure product management within the next few years.
+- 私は中級レベルだと思う。： I consider myself at an intermediate level.
 - 
