@@ -105,3 +105,13 @@
 - （名前聞かれて答えた上で、）あなたも名前は？：What is your name as well?
 - よくピクニックに行くよ。：I often go for picnics.
 - サンフランシスコにピクニックに行くのに良い公園ってある？:Are there any parks in san francisco good for picnicking?
+- メニューに何がありますか。：What's on the menu?
+- それで全てです。：That will be all.
+- 特に何もないよ。：I have nothing in particular.
+- 検討して、後で、予約をとります。I'll consider and make a reservation myself later.
+- 朝食がServiceに含まれているかどうかを確認したい。：I would like to confirm if breakfast is included in the service.
+- 割引は使えますか？：Is there any discount available?
+- 一緒にディナーに行きたい。：I would like to have dinner together.
+- 中華料理を食べたい感じ。：I feel like eating Chinese food.
+- 誰か誘いたい？：Would you like to invite someone else?
+- 映画見る方が良いと思うな〜。:I think watching a movie would be better.
