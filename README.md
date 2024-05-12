@@ -90,4 +90,6 @@
 - 最近、ゲームを買って家族とプレイしてます。：Recently, I bought a game that I play at home with my family.
 - ここ数年はプロダクトマネジメントを追求したい。：I would like to pursure product management within the next few years.
 - 私は中級レベルだと思う。： I consider myself at an intermediate level.
+- どんな資格が必要だと思いますか：What qualifications do you think are neceasary?
+- プロダクトマネジメントに関わる重要な資格を知ってますか？：Do you know any key qualifications related to a product manager?
 - 
