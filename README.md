@@ -54,3 +54,15 @@
 - 東京で行くべきおすすめの場所ってありますか。：Do you have recommendations of places to go in tokyo?
 - そこに着くまでにどのくらい時間かかる？：How long does it take to get there?
 - 仕事は何してますか？：What do you do for a living?
+- 喉まで出ている：It's on the tip of tongue.
+- 話すの久しぶりだね。：It's been a while since we talked.
+- 面倒な顧客の対応をするのが耐えられない。：I can't stand dealing with troublesome customer.
+- ということは、ロシア生まれってこと？：That means you are from Russia, right?
+- 実はうちの会社のマーケティングのポジションを探しているんだよね。：Actually, I'm looking for someone to fill a marketing position at my company.
+- もし興味があったら、JDを見て、電話して欲しいです。：If you are interested, please take a look at the job description and give me a call.
+- おすすめの食べるとこ教えてください。：Could you give me the recommendations of place to eat?
+- そこのおすすめのメニューを教えてください。：What menu items do you recommend there?
+- あなたが言ってくれたイベントのどれかに参加したいと思います。：I would like to attend one of the events you mentioned.
+- 自転車のレンタルサービスは使えますか？：Is there bicycle rental service available?
+- 情報を共有してくれてありがとう。：Thank you for sharing information with me.
+- この出張を楽しむね！：I am sure I will enjoy this bussiness trip.
