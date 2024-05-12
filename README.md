@@ -97,3 +97,11 @@
 - ここ10年の思い出を話したいね。: I`d like to talke about memories from the past decade.
 - これからはゲームが出来なくなる。寂しく思うだろう。:We won't be able to play games together anymore. I'm going to miss doing that.
 - これからどうやって連絡を取り合えば良い？：How can I keep in touch with you?
+- 海外の人がたくさんくる場所が神奈川にはあります。There are many places that attract many people from abraod in kanagawa.
+- 神奈川は公共交通機関が整備されていて行き来しやすい。：It is easy to travel to and from Kanagawa because there are many public transportation options.
+- 僕がよく行っていた有名なビーチがあるんだ。：There is a famous beach where I often went.
+- みんなもやっているよ。：Everyone do the same.
+- なんもないよ。：There's nothing else, thank you.
+- （名前聞かれて答えた上で、）あなたも名前は？：What is your name as well?
+- よくピクニックに行くよ。：I often go for picnics.
+- サンフランシスコにピクニックに行くのに良い公園ってある？:Are there any parks in san francisco good for picnicking?
