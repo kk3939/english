@@ -65,8 +65,20 @@
 - あなたが言ってくれたイベントのどれかに参加したいと思います。：I would like to attend one of the events you mentioned.
 - 自転車のレンタルサービスは使えますか？：Is there bicycle rental service available?
 - 情報を共有してくれてありがとう。：Thank you for sharing information with me.
-- この出張を楽しむね！：I am sure I will enjoy this bussiness trip.
+- この出張を楽しむね！：I am certain I will enjoy this bussiness trip.
 - この授業を楽しんでます。：I'm excited about this class.
 - 自由と人間の平等を想像してこの絵を描きました。：I imagine freedom and human equality in this painting.
 - 何か意見ありますか。：What do you think?
 - こうしたらいいなって感じの提案ありますか？：Do you have any suggestions for improvement?
+- あなたの騒音問題について話したい。：I would like to discuss the noise you make at night.
+- 心配ないよ。私の思っていることについて話したい。：No worries, I would like to discuss my thoughts with you.
+- あなたの騒音で夜眠れない：The noise you make at night is causing me to lose sleep.
+- 単なる興味ですが、何が原因で騒音が起きているのですか？：I`m just interested, What is causing the noise?
+- そのあなたの解決策良さそう：Your solutions seems good.
+- 感謝を伝えたいのは私の方です。：I'm the one who should be thanking you.
+- スペース展示場エリアを探しています。どこにあるか教えていただけないでしょうか。：I'm looking for space exhibit; Could you tell me where it is located?
+- まあこんな感じかな：That's about what I'm thinking.
+- 私は少し話しづらい気持ちがある。：I'm feeling a bit uneasy about talking to you.
+- どの仕事をするべきか：Which job I should choose
+- 妻と同僚のサポートに感謝しています。：I am grateful for support by colleagues and wife.
+- 
