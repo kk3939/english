@@ -66,3 +66,7 @@
 - 自転車のレンタルサービスは使えますか？：Is there bicycle rental service available?
 - 情報を共有してくれてありがとう。：Thank you for sharing information with me.
 - この出張を楽しむね！：I am sure I will enjoy this bussiness trip.
+- この授業を楽しんでます。：I'm excited about this class.
+- 自由と人間の平等を想像してこの絵を描きました。：I imagine freedom and human equality in this painting.
+- 何か意見ありますか。：What do you think?
+- こうしたらいいなって感じの提案ありますか？：Do you have any suggestions for improvement?
