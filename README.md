@@ -115,3 +115,23 @@
 - 中華料理を食べたい感じ。：I feel like eating Chinese food.
 - 誰か誘いたい？：Would you like to invite someone else?
 - 映画見る方が良いと思うな〜。:I think watching a movie would be better.
+- 経済学を専攻しているんだ。：I'm maijoring in economics.
+- 経済の勉強を深めたい。：I want to further my studies in economics.
+- 理解を深めたい。：I want to further my understand.
+- キャンパスの周りを歩くのは楽しい：I enjoy walking around campus.
+- 調査の準備はした？：Did you prepare for the research?
+- どれが一番売れてますか？：Which item is the best seller?
+- ドキュメントを見せてくれますか。：Please show the document to me.
+
+
+
+
+
+
+
+
+
+
+
+
+
