@@ -122,6 +122,15 @@
 - 調査の準備はした？：Did you prepare for the research?
 - どれが一番売れてますか？：Which item is the best seller?
 - ドキュメントを見せてくれますか。：Please show the document to me.
+- 予約の名前はKでお願いいたします。：The reservation will be under the name K, please.
+- お肉のメニューはありますか？：Do you have any vegetarian options on the menu?
+- フルーツのカクテルのおすすめはありますか？：Could I have a recommendation for a fruity cocktail?
+- 今日一日どんな感じ？：How is your day going?
+- pizzaを頼んでみても良いでしょうか？：Could I order a pizza for delivery, please?
+- それにどれくらい時間がかかるの？: How long will it take?
+- 最後に聞きたいです。：Lastly, I have one question to ask.
+- なんか楽しいことがしたい。：I'd like to do something fun wou
+- 東京タワーに行くのが良さそう：Going to tokyo tower would be great for me.
 
 
 
