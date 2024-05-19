@@ -131,6 +131,8 @@
 - 最後に聞きたいです。：Lastly, I have one question to ask.
 - なんか楽しいことがしたい。：I'd like to do something fun wou
 - 東京タワーに行くのが良さそう：Going to tokyo tower would be great for me.
+- 一番売れている商品ってなんですか？：What is the best selling item?
+- 
 
 
 
