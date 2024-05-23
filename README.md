@@ -5,34 +5,48 @@
 
 - 予算を設定する。
   - I'll set the budget for 10,000 yen.
+  - set the budgetが予算を設定するという意味
 - 何が必要で何は後回しにできるか決定する必要がある。
   - We should agree which items are esential and which can wait.
+  - which items are esential が必要性が高いという意味で、which can waitが後回しにできるという意味。
 - コンビニとショッピングセンターにあるお店に行きたい
   - I would like to go the convenience store and the one in the shopping center.
 - どう思う？
   - What do you think？
 - 今行きます。
   - I'll go there right now.
+  - いま→right now
 - お水と財布はリストにあります。
   - Water and a wallet are on the list.
+  - リストアップされていることをon the list
 - 同様に、それらもリストアップしてください。
   - Please　list those as well.
+  - list those→ 目的後を取ることでリストアップするという意味になる
 - 項目を読み上げてもらえますか？
   - Could you please read back all items?
+  - 再度の意味合いがあるread back
 - バッグを持ってきてもらえますか？
   - Could　you please bring the bags?
+  - 自分から持っていく場合はbring
+  - そうでない場合は、take
 - 肉と水を買おうと思うんだ。
   - I'm looking to purchase meats and water.
+  - looking toで見てる
+  - 今回は買うために見てんだよね〜のニュアンス
 - 週に3回この店に来るよ。
   - I usually come to this store three times a week.
+  - 週に何回の意味でthree times a week
 - あなたについてなんだけど
   - What about you,
 - 何買うつもり？
   - What are you planning to buy?
 - この店は幅広い品揃えがあるよね。
   - This store carries a wide variety of items.
+  - thereを使わない表現
+  - 幅広い〜〜〜という意味では、a wide variety of ~が良い
 - 日常に必要なもの全て手に入る
   - We can get everything we need for daily life.
+  - 日常：daily life
 - 店は忙しいみたい
   - The store seems busy today. Maybe it's because of the good weather.
 - 念のため確認させてください。
@@ -59,8 +73,11 @@
   - I have a favor to ask of you.
 - 言いにくいんだけど。。。。
   - It’s kind of awrkward to say...
+  - kind ofでざっくりの意味を持たせられる
+  - 詰まった時に、I was like....it's kind of awrkward to say
 - 私たちは1年ぶりに会った。
   - We see each other for the first time in a year.
+  - ~年ぶり→for the first time in a year
 - 連絡をとり続ける方法はありますか。
   - Is there a way we can keep in touch?
 - いつもfacebookとXを使っているよ。あなたも使っている？
@@ -87,6 +104,7 @@
   - It's not like I don't like K-pop.
 - さすがだね
   - I knew you could do it.
+  - やっぱりね！も近い
 - わかる。
   - I know what you mean.
 - 常温の水ください。
@@ -97,7 +115,8 @@
   - How do you say this in this?
 - foreignerって呼ぶの失礼？
   - Is it rude to call "foreigner"?
-- 嫌じゃなければ案内します。:If you don't mind, I'll show it.
+- 嫌じゃなければ案内します。
+  - If you don't mind, I'll show it.
 - 東京で行くべきおすすめの場所ってありますか。
   - Do you have recommendations of places to go in tokyo?
 - そこに着くまでにどのくらい時間かかる？
@@ -105,13 +124,16 @@
 - 仕事は何してますか？
   - What do you do for a living?
 - 喉まで出ている
-  - It's on the tip of tongue.
+  - It's on the tip of my tongue.
 - 話すの久しぶりだね。
   - It's been a while since we talked.
 - 面倒な顧客の対応をするのが耐えられない。
   - I can't stand dealing with troublesome customer.
+  - 日本語に相当する対応はdeal with
+  - 耐えるがstand
 - ということは、ロシア生まれってこと？
   - That means you are from Russia, right?
+  - That means ~でということはこういうこと？ときける。
 - 実はうちの会社のマーケティングのポジションを探しているんだよね。
   - Actually, I'm looking for someone to fill a marketing position at my company.
 - もし興味があったら、JDを見て、電話して欲しいです。
@@ -124,10 +146,12 @@
   - I would like to attend one of the events you mentioned.
 - 自転車のレンタルサービスは使えますか？
   - Is there bicycle rental service available?
+  - 通常の分にavailableをつけることで、利用できるよというふうに設定できる。
 - 情報を共有してくれてありがとう。
   - Thank you for sharing information with me.
 - この出張を楽しむね！
   - I am certain I will enjoy this bussiness trip.
+  - I am certain that でthat以降を確かにそうするねって感じにできる。
 - この授業を楽しんでます。
   - I'm excited about this class.
 - 自由と人間の平等を想像してこの絵を描きました。
@@ -142,6 +166,8 @@
   - No worries, I would like to discuss my thoughts with you.
 - あなたの騒音で夜眠れない
   - The noise you make at night is causing me to lose sleep.
+  - S cause to doで Sがdoを引き起こしているとなる
+  - The busy work cause me to lose sleepなど
 - 単なる興味ですが、何が原因で騒音が起きているのですか？
   - I`m just interested, What is causing the noise?
 - そのあなたの解決策良さそう
@@ -162,6 +188,7 @@
   - I would like to know what features the hat you mentioned have.
 - 帽子にあう他の商品をみたい。
   - I would like to see other items that would go well with the hat.
+  - go well with が日本語の合うになる
 - いい買い物だった。
   - It was a nice purchace.
 - 行き方がわからない
@@ -176,6 +203,8 @@
   - I would like to pursure product management within the next few years.
 - 私は中級レベルだと思う。
   -  I consider myself at an intermediate level.
+  -  自分について思う時
+     -  I consider　myself at 
 - どんな資格が必要だと思いますか
   - What qualifications do you think are neceasary?
 - プロダクトマネジメントに関わる重要な資格を知ってますか？
@@ -184,13 +213,17 @@
   - Can I compare strawberries with other fruits?
 - 新しい場所でも元気にやってね。
   - Please continue to do well in your new place.
-- ここ10年の思い出を話したいね。: I`d like to talke about memories from the past decade.
-- これからはゲームが出来なくなる。寂しく思うだろう。:We won't be able to play games together anymore. I'm going to miss doing that.
+- ここ10年の思い出を話したいね。
+  -  I`d like to talk about memories from the past decade.
+- これからはゲームが出来なくなる。寂しく思うだろう。
+  - We won't be able to play games together anymore. I'm going to miss doing that.
 - これからどうやって連絡を取り合えば良い？
   - How can I keep in touch with you?
-- 海外の人がたくさんくる場所が神奈川にはあります。There are many places that attract many people from abraod in kanagawa.
+- 海外の人がたくさんくる場所が神奈川にはあります。
+  - There are many places that attract many people from abraod in kanagawa.
 - 神奈川は公共交通機関が整備されていて行き来しやすい。
   - It is easy to travel to and from Kanagawa because there are many public transportation options.
+  - easy to travel to and from kanagawa→神奈川は行き来しやすい
 - 僕がよく行っていた有名なビーチがあるんだ。
   - There is a famous beach where I often went.
 - みんなもやっているよ。
@@ -221,7 +254,9 @@
   - I feel like eating Chinese food.
 - 誰か誘いたい？
   - Would you like to invite someone else?
-- 映画見る方が良いと思うな〜。:I think watching a movie would be better.
+- 映画見る方が良いと思うな〜。
+  - I think watching a movie would be better.
+  - これが良さそう→would be better
 - 経済学を専攻しているんだ。
   - I'm maijoring in economics.
 - 経済の勉強を深めたい。
@@ -264,14 +299,15 @@
   - It will be for about six to eight people.
 - クーポンを利用したいです。
   - I'd like to take advantage of the discount.
+  - take advantage →利用する
 - 誕生日プレゼントを選ぶのを手伝ってもらえませんか？
   - Could you help me choose a birthday present?
 - どれが一番いい？
   - Which one is the best?
 - 都合が良いです。
   - I'm available then.
-- I'm here to attend an important conference.：
-  - 要な会議に出席するためにここに来ました。
+- 重要な会議に出席するためにここに来ました。
+  - I'm here to attend an important conference.
 - あなたの情報はとても助けになりました。
   - Your information helped me a lot.
 - あとで、メインディッシュを決めます。
