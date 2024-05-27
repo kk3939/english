@@ -324,7 +324,12 @@
   - Is the table inside?
 - 可能なら、外の席をお願いします。
   - If possible, I would prefer to sit outside.
-
+- その方法は問題解決の点からいうと機能しない。
+  - That method doesn't work from the perspective of problem solving.
+  - 〜の点からいうと→from the perspective of
+- わたしが間違っているかもしれませんが、それを知っていて欲しいです。
+  - I might be wrong, but I want you to know that.
+  - わたしが間違っているかもしれませんが→I might be wrong, but
 
 
 
