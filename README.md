@@ -330,6 +330,18 @@
 - わたしが間違っているかもしれませんが、それを知っていて欲しいです。
   - I might be wrong, but I want you to know that.
   - わたしが間違っているかもしれませんが→I might be wrong, but
+- 窓側の席は利用可能ですか？
+  - Are a table by window available?
+- この番号にかけて良いです。
+  - You can call me at this number.
+- 滞在を3日間延長できますか？
+  - Can I extend my stay for three days?
+- PINの代わりにサインは使えますか？
+  - Can I use a signature instead of a PIN?
+- 奥の座席がAなので、この座席がCなのはおかしいです。
+  - The seat in the back is A, so it's strange that this seat is C.
+- ここに書いてあったのね。
+  - It was written here.
 
 
 
