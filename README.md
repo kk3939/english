@@ -342,16 +342,6 @@
   - The seat in the back is A, so it's strange that this seat is C.
 - ここに書いてあったのね。
   - It was written here.
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 顧客から要望があった新機能をどのように優先順位つけるべきか？
+  - How should we prioritize the new features requested by the clients?
+  
