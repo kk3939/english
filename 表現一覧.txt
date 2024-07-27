@@ -109,7 +109,7 @@
 - やっぱり、このプロジェクトを中止しましょう。
   - Actually, we should stop this project.
 - 英語でこれって何て言えばいいんでしょう。
-  - How do you say this in this?
+  - How do you say this in English?
 - foreignerって呼ぶの失礼？
   - Is it rude to call "foreigner"?
 - 嫌じゃなければ案内します。
@@ -283,7 +283,7 @@
 - 最後に聞きたいです。
   - Lastly, I have one question to ask.
 - なんか楽しいことがしたい。
-  - I'd like to do something fun wou
+  - I'd like to do something fun.
 - 東京タワーに行くのが良さそう
   - Going to tokyo tower would be great for me.
 - 一番売れている商品ってなんですか？
