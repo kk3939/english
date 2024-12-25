@@ -337,7 +337,7 @@
 - PINの代わりにサインは使えますか？
   - Can I use a signature instead of a PIN?
 - 奥の座席がAなので、この座席がCなのはおかしいです。
-  - The seat in the back is A, so it's strange that this seat is C.
+  - The seat at the back is A, so it's strange that this seat is C.
 - ここに書いてあったのね。
   - It was written here.
 - 顧客から要望があった新機能をどのように優先順位つけるべきか？
@@ -746,4 +746,83 @@ I agree with this policy because it makes economics stimulate.
 Removing the income limit might indeed encourage more people to work additional hours or take on better-paying jobs, which could lead to overall economic growth and increased household spending.
 
 
+## Speakで保存した表現
+- After that, we would prioritize our tasks, ordering them by importance and urgency.
+- Yes, it's important to confirm the facts and what we've done, as it's crucial for decideing our next steps.
+  - asは理由の用法
+- First of all, I'll confirm the deadline and what needs to be done.
+  - First of all: とりあえず最初は
+- Yes, it enhances teamwork.
+- Yes, my abilities have limits, so I think it's important to consult with others.
+- First, I would attempt to tackle the new project. Then, if I realize that I cannot do it on my own, I would consult my supervisor and colleagues for assistance.
+  - on my own: 自分独りで
+- My presentation starts at 2 am, so please hurry.
+- I can't get the microphone and the projector to connect. I've tried again and again, but it's not working.
+- Sorry, that's all for today. Thank you for the conversation.
+- Yes it's a difficult task. Firstly, the type of user is an important factor-administrator and end-users have different perspectives and motivations. Secondly, the focus areas are crucial, such as enterprise users versus small bisiness users. We need to understand these distinctions to prioritize effectively.
+- The questionnaire responses are not directly related to the product roadmap. However, they do provide insights into specific features. By collecting more customer requests, we can obtain more insights which enable us to develop better roadmaps based on these insights.
+- I focus on two main things. Firstly, consulting with many stake holders because there's a limit to what I can consider by myself. Secondly, giving a lot of thought to the process.
+  - by myself: 独りで
+- Recently, I've been working on creating a new questionnaire. It's challenging because it's my first time doing this. I need to consider what questions to ask our customers and what incentives to offer to motivate them to awnser. I have to take many different perspectives into account to design it effectively.
+  - take ~ into account: 考慮に入れる
+- Yes, my role is as a produst manager, which involves overssing the over all product planning, creating the product roadmap, and defining the produt vision.
+- Sure, my name is kyosuke. You can call me kyo. I've been working at a tech company for about three years. My role involves planning ne features and disscussing matters related to our products. I live in Tokyou and was born in Japan.
+- It looks positive. Our customer feedback has been positive recently.
+- Thank you for your assistance. I'm sure I'll enjoy shopping.
+- Okay, so I'll let you know if i need any help while i'm trying on the clothes.
+- That's great. I'll take a look at those.
+- It depends on the timing and the specific case.
+  - It depends on: ~による
+- As a matter of fact, I've been working from home recently.
+  - As a matter of fact: 実際のところ
+- As I mentioned, I'll have it completed by the end of this week.
+- We've identified several issues. In the next step, we should determine the specifics and calculate the estimated costs.
 
+## 英作文
+
+### 新機能リリース計画の社内プレゼン
+
+Hi, everyone. Today, I would like to share our plan of release new features.
+In preparing this plan, I focused on three key points.
+Market, customer requests, product vision.
+
+The market we operate in is shrinking because of the emergence of workspace-collaboration tools. While companies previously relied on all-in-one solutions like groupware, they now use a variety of tools and SaaS platforms to meet their needs.
+
+In response to these market changes, our customers have been requesting features such as chat, collaborative writing, and industry-specific capabilities. This diversification makes developing work software increasingly complex.
+
+Additionally, enterprise customers are asking for features that help them manage global operations and address their intricate workflows. To succeed in the enterprise market, we need to deeply understand and adapt to their systems.
+
+We must also remain aligned with our product vision: “Connect all people.” Guided by this vision, we plan to introduce new features, including a messaging system, external collaboration permissions, design improvements, and more.
+
+That concludes my overview of the new feature release plan. If you have any questions or feedback, please don’t hesitate to ask.
+
+Thank you for your time and attention!
+
+### 海外開発チームとのデイリースタンドアップ
+Good morning, everyone. Let’s get started.
+
+First, let’s check the current progress toward the sprint goal.
+Please share your progress as a number from 0 to 5.
+
+Next, if you have any concerns about achieving the goal, please let us know.
+
+Is anyone planning to take a day off tomorrow?
+
+Alright, that wraps up today’s stand-up.
+Goodbye, everyone!
+
+### 新機能デモとフィードバック収集
+Hi, everyone. Today, I’d like to demo the new feature.
+If you have any question or feedback, please share them with me.
+
+First, I’ve implemented the CSV download feature. System administrators can now see how often and how much end-users access the product.
+This helps them make better use of the data and take action if the usage score is low. This feature is designed to reduce churn.
+
+If you have any feedback, I’d love to hear it.
+
+Thank you for your time and attention.See you!
+
+## 気になった表現一覧
+- （旅行で）荷物預かってもらえますか？
+  - Can I have you keep my lagguage for me?
+- 
