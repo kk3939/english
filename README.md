@@ -828,25 +828,49 @@ Thank you for your time and attention.See you!
 
 ### 日常会話
 1. 天候の影響で予定していたピクニックが中止になったけれど、家で映画を見ながらリラックスするのも悪くないかもしれない。
+   1. The picnic is cancelled due to the weather, but watching a movie at home and relaxing might not be a bad idea.
 2. 久しぶりに会う友達との食事会で、最近の趣味や興味をどのように伝えれば良いか少し緊張している。
+   1. I'm a little nervous about how to tell my friends about my recent hobbies and interests at the dinner party with friends I haven't seen in a while.
 3. 本を読んでいる途中で突然停電が起こったため、懐中電灯を探すのに手間取ってしまった。
+   1. It took me a while to find a flashlight because the power went out suddenly while I was reading a book.
 4. 最近話題の展覧会が混雑していると聞いたけれど、事前予約が必要だったか確認してみるべきだったね。
+   1. We should confirm if advance reservations were required, though I heard that the popular exhibition was crowded recently.
 5. 昨日のニュースで取り上げられていた社会問題について、どのように議論を進めるべきか考えておこう。
+   1. Let's think about how to proceed disscuttion on the social issues that were covered in the news last night.
 6. 次回の旅行では、ただ観光地を巡るだけでなく、その地域の文化や歴史を深く理解したいと思う。
+   1. Not only sightseeing, but also I'd like to deepen my understanding of culture and history of the area on the next trip.
 7. 最近の研究によると、テクノロジーの発展がどのように人々のライフスタイルを変えてきたかについて新たな視点が提示されている。
+   1. Recent studies indicate new perspectives on how technological advancements changed people's lifestyles.
 8. もし、あなたがどんな職業でも自由に選べるとしたら、どのようなキャリアを選んで、何を目指すと思う？
-9. 自分の健康状態を保つためには、定期的な運動だけでなく、十分な睡眠とバランスの取れた食事が重要だと言われている。
+   1. If you could choose any occupation freely, what career would you choose and what would you aim for?
+9.  自分の健康状態を保つためには、定期的な運動だけでなく、十分な睡眠とバランスの取れた食事が重要だと言われている。
+    1.  It is said that to maintain your health, not only regular exercise, but also enough sleep and a balanced diet are important.
 10. 街中で見かけたあの小さなカフェは雰囲気が良さそうだから、今度友達と一緒に行ってみたいと思っている。
+    1.  The cafe I saw in the town looks good, so I'd like to go there with my friend next time.
 
 ### ビジネスシーン
 11. チーム全員が新しいプロジェクトに集中するためには、現在のタスクの優先順位を再評価し、リソースを効率的に配分することが必要です。
+    1.  To focus the entire team on the new project, it is nessesary to evaluate the current task priorities and allocate resources effectively.
 12. 競合他社の戦略を分析することで、自社の市場ポジションを強化するための新たな可能性が見えてくるかもしれません。
+    1.  Analiyzing the strategy og competitors may reveal new possibilities to strengthen our market position.
 13. 来月の展示会で成功を収めるには、製品の魅力を的確に伝えるためのマーケティング資料を綿密に準備する必要があります。
+    1.  To succeed at the exhibition next month, it is necessary to prepare marketing materials carefully to effectively convey the attractiveness of the product.
 14. 最近の技術革新が、業界全体にどのような影響を与える可能性があるのかについて詳細な報告書を作成するよう指示がありました。
+    1.  Instructions have been given to create a detailed report on how recent technological innovations may influence the entire industry.
 15. 昨日行われた会議で、全員が合意したかのように見えた提案に対し、いくつかの潜在的な課題が指摘されました。
-16. クライアントから予期せぬ要望が届いた場合、柔軟な対応が求められる一方で、元のスケジュールに与える影響を慎重に検討するべきです。
-17. この新しいシステムの導入により、従業員の生産性が大幅に向上する可能性がある一方で、初期段階での混乱を最小限に抑えるための適切なトレーニングが不可欠です。
-18. 提出された計画書には、理論的な根拠が不足していると感じたため、より具体的なデータと例を追加するよう依頼しました。
-19. このプロジェクトが成功するためには、各チームメンバーが果たすべき役割を明確にし、全体の進捗を定期的に見直すことが重要です。
-20. 長期的な利益を確保するために、短期的な利益に固執するのではなく、持続可能な成長戦略を優先するべきだと考えています。
-
+    1.  Some potential issues were pointed out regarding the proposal that seemd to have been agreed on by everyone at the meeting yesterday.
+16. このプロジェクトの成功には、各メンバーが自らの役割を明確に理解し、協力して進めることが不可欠です。
+    1.  To succeed in this project, it is essential for each member to crealy understand their role and work together cooperatively.
+17. クライアントから予期せぬ要望が届いた場合、柔軟な対応が求められる一方で、元のスケジュールに与える影響を慎重に検討するべきです。
+    1.  When unexpected requests arrives from the client, it is nessesary to respond frexibly,  while we should carefully consider the impact on the original schedule.
+18. この新しいシステムの導入により、従業員の生産性が大幅に向上する可能性がある一方で、初期段階での混乱を最小限に抑えるための適切なトレーニングが不可欠です。
+    1.  The introduction of the new system may significantly improve employee productivity, while it is essential to train them properly to minimize the confusion in the initial stage.
+19. 提出された計画書には、理論的な根拠が不足していると感じたため、より具体的なデータと例を追加するよう依頼しました。
+    1.  I requested to add more detailed data and examples to the submitted plan because I felt that it lacked theoretical basis.
+20. このプロジェクトが成功するためには、各チームメンバーが果たすべき役割を明確にし、全体の進捗を定期的に見直すことが重要です。
+    1.  To suceed in this project, it is important to clarfiy the roles that each member should play and review the overall progress regularly.
+21. 長期的な利益を確保するために、短期的な利益に固執するのではなく、持続可能な成長戦略を優先するべきだと考えています。
+    1.  To secure the long-term profits, I think we should prioritize sustainable growth strategies rather than sticking to short-term ones.
+22. この新しいプロジェクトには、他の部署との緊密な連携が不可欠であり、情報共有とコミュニケーションを円滑に行うことが重要です。
+    1.  Close colaboration with other departments is essential for this new project, and it is important to share information and communicate smoothly.
+23. 
