@@ -369,86 +369,154 @@
 ## 英作した文章
 1. 天候の影響で予定していたピクニックが中止になったけれど、家で映画を見ながらリラックスするのも悪くないかもしれない。
    1. The picnic is cancelled due to the weather, but watching a movie at home and relaxing might not be a bad idea.
+   2. due to the weather: 天候の影響で
+   3. might not be a bad idea: 悪くないかもしれない
 2. 久しぶりに会う友達との食事会で、最近の趣味や興味をどのように伝えれば良いか少し緊張している。
    1. I'm a little nervous about how to tell my friends about my recent hobbies and interests at the dinner party with friends I haven't seen in a while.
+   2. how to tell: どのように伝えるか
+   3. a little nervous: 少し緊張している
+   4. I haven't seen in a while: 久しぶりに会う
 3. 本を読んでいる途中で突然停電が起こったため、懐中電灯を探すのに手間取ってしまった。
    1. It took me a while to find a flashlight because the power went out suddenly while I was reading a book.
+   2. It took me a while: 手間取ってしまった
+   3. the power went out suddenly: 突然停電が起こった
 4. 最近話題の展覧会が混雑していると聞いたけれど、事前予約が必要だったか確認してみるべきだったね。
    1. We should confirm if advance reservations were required, though I heard that the popular exhibition was crowded recently.
+   2. advance reservations: 事前予約
+   3. crowded: 混雑している
 5. 昨日のニュースで取り上げられていた社会問題について、どのように議論を進めるべきか考えておこう。
    1. Let's think about how to proceed disscuttion on the social issues that were covered in the news last night.
+   2. proceed disscuttion: 議論を進める
+   3. were covered in the news: 取り上げられていた
 6. 次回の旅行では、ただ観光地を巡るだけでなく、その地域の文化や歴史を深く理解したいと思う。
-   1. Not only sightseeing, but also I'd like to deepen my understanding of culture and history of the area on the next trip.
+   1. On the next trip, I'd like to not only visit tourist spots, but also deepen my understanding of the culture and history of the area.
+   2. deepen my understanding: 理解を深める
+   3. tourist spots: 観光地
+   4. On the next trip: 次回の旅行では
 7. 最近の研究によると、テクノロジーの発展がどのように人々のライフスタイルを変えてきたかについて新たな視点が提示されている。
    1. Recent studies indicate new perspectives on how technological advancements changed people's lifestyles.
+   2. Recent studies: 最近の研究
+   3. indicate: 示す
 8. もし、あなたがどんな職業でも自由に選べるとしたら、どのようなキャリアを選んで、何を目指すと思う？
    1. If you could choose any occupation freely, what career would you choose and what would you aim for?
+   2. freely: 自由に
+   3. aim for: 目指す
 9.  自分の健康状態を保つためには、定期的な運動だけでなく、十分な睡眠とバランスの取れた食事が重要だと言われている。
     1.  It is said that to maintain your health, not only regular exercise, but also enough sleep and a balanced diet are important.
+    2.  It is said that: 〜と言われている
+    3.  maintain your health: 健康状態を保つ
+    4.  regular exercise: 定期的な運動
+    5.  enough sleep: 十分な睡眠
+    6.  balanced diet: バランスの取れた食事
 10. 街中で見かけたあの小さなカフェは雰囲気が良さそうだから、今度友達と一緒に行ってみたいと思っている。
     1.  The cafe I saw in the town looks good, so I'd like to go there with my friend next time.
 11. 雨が降っているにもかかわらず、彼は散歩に出かけることを決めた。その理由を聞いてみたけれど、明確な答えは返ってこなかった。
     1.  Although it rains, he decided to go for a walk. I asked him why, but he didn't give me a clear answer.
+    2.  go for a walk: 散歩に出かける
+    3.  a clear answer: 明確な答え
 12. 万が一、この電車が遅れるようなことがあれば、次の会議に間に合う方法を考えなければならない。
     1.  In case this train is delayed, I have to think about how to make it to the next meeting on time.
+    2.  In case: 万が一
+    3.  this train is delayed: この電車が遅れる
+    4.  make it to the next meeting on time: 次の会議に間に合う
 13. あなたがそのレストランを推薦してくれなかったら、こんな素敵な食事を体験することはなかっただろう。
     1.  If you hadn't recommended that restraunt, I wouldn't have experienced such a wonderful meal.
 14. 最近のニュースを見る限りでは、環境問題への取り組みが以前よりも重要視されているように思える。
     1. From what I see in the recent news, it seems that tackling environmental issues is more important than before.
+    2. From what I see: 見る限りでは
+    3. tackling environmental issues: 環境問題への取り組み
 15. もし可能なら、今月中に友人たちとの予定を確定させたいけれど、全員のスケジュールを調整するのが難しい。
     1.  If possible, I'd like to finalize the plans with my friends this month, but it's difficult to arrange everyone's schedules.
+    2.  finalize the plans: 予定を確定させる
+    3.  arrange everyone's schedules: 全員のスケジュールを調整する
 16. 彼女がその話題について語るときの情熱を見ると、彼女がどれほどそれを大切にしているかが伝わってくる。
     1.  When I see her passion when she talks about the topic, I can tell how much she values it.
+    2.  see her passion: 情熱を見る
+    3.  how much she values it: 彼女がどれほどそれを大切にしているか
 17. 通勤時間を有効に使うために、ポッドキャストやオーディオブックを聴くことを最近始めた。
     1.  To utilize my commuting time effectively, I recently started to listen to podcasts and audiobooks.
 18. 最近の出来事についてもっと知りたいのであれば、SNSだけでなく信頼できるニュースソースも利用するべきだ。
     1.  If you want to know more about recent events, you should use not only SNS but also reliable news sources.
+    2.  reliable news sources: 信頼できるニュースソース
 19. その新しいカフェに行ったら、店員さんがとても親切だった上に、雰囲気も素晴らしかった。
     1.  When I went to the new cafe, the staff was very kind and the atmosphere was so great.
 20. 彼が突然その計画を変えた理由を知りたかったけれど、彼はそれについて話したがらなかった。
     1.  I wanted to know why he suddenly changed the plan, but he didn't want to talk about it.
 21. チーム全員が新しいプロジェクトに集中するためには、現在のタスクの優先順位を再評価し、リソースを効率的に配分することが必要です。
     1.  To focus the entire team on the new project, it is nessesary to evaluate the current task priorities and allocate resources effectively.
+    2.  focus the entire team on the new project: チーム全員が新しいプロジェクトに集中する
 22. 競合他社の戦略を分析することで、自社の市場ポジションを強化するための新たな可能性が見えてくるかもしれません。
-    1.  Analiyzing the strategy og competitors may reveal new possibilities to strengthen our market position.
+    1.  Analiyzing the strategy of competitors may reveal new possibilities to strengthen our market position.
+    2.  Analiyzing the strategy of competitors: 競合他社の戦略を分析する
+    3.  reveal new possibilities: 新たな可能性が見えてくる
+    4.  strengthen our market position: 自社の市場ポジションを強化する
 23. 来月の展示会で成功を収めるには、製品の魅力を的確に伝えるためのマーケティング資料を綿密に準備する必要があります。
     1.  To succeed at the exhibition next month, it is necessary to prepare marketing materials carefully to effectively convey the attractiveness of the product.
 24. 最近の技術革新が、業界全体にどのような影響を与える可能性があるのかについて詳細な報告書を作成するよう指示がありました。
     1.  Instructions have been given to create a detailed report on how recent technological innovations may influence the entire industry.
+    2.  Instructions have been given: 指示がありました
+    3.  create a detailed report: 詳細な報告書を作成する
+    4.  the entire industry: 業界全体
 25. 昨日行われた会議で、全員が合意したかのように見えた提案に対し、いくつかの潜在的な課題が指摘されました。
     1.  Some potential issues were pointed out regarding the proposal that seemd to have been agreed on by everyone at the meeting yesterday.
+    2.  Some potential issues: いくつかの潜在的な課題
+    3.  the proposal that seemd to have been agreed on by everyone: 全員が合意したかのように見えた提案
 26. このプロジェクトの成功には、各メンバーが自らの役割を明確に理解し、協力して進めることが不可欠です。
     1.  To succeed in this project, it is essential for each member to crealy understand their role and work together cooperatively.
+    2.  cooporatively: 協力して
 27. クライアントから予期せぬ要望が届いた場合、柔軟な対応が求められる一方で、元のスケジュールに与える影響を慎重に検討するべきです。
     1.  When unexpected requests arrives from the client, it is nessesary to respond frexibly,  while we should carefully consider the impact on the original schedule.
+    2.  respond frexibly: 柔軟に対応する
+    3.  consider the impact on the original schedule: 元のスケジュールに与える影響を慎重に検討する
 28. この新しいシステムの導入により、従業員の生産性が大幅に向上する可能性がある一方で、初期段階での混乱を最小限に抑えるための適切なトレーニングが不可欠です。
     1.  The introduction of the new system may significantly improve employee productivity, while it is essential to train them properly to minimize the confusion in the initial stage.
+    2.  improve employee productivity: 従業員の生産性が向上する
+    3.  minimize the confusion in the initial stage: 初期段階での混乱を最小限に抑える
 29. 提出された計画書には、理論的な根拠が不足していると感じたため、より具体的なデータと例を追加するよう依頼しました。
     1.  I requested to add more detailed data and examples to the submitted plan because I felt that it lacked theoretical basis.
+    2.  it lacked theoretical basis: 理論的な根拠が不足している
 30. このプロジェクトが成功するためには、各チームメンバーが果たすべき役割を明確にし、全体の進捗を定期的に見直すことが重要です。
     1.  To suceed in this project, it is important to clarfiy the roles that each member should play and review the overall progress regularly.
 31. 長期的な利益を確保するために、短期的な利益に固執するのではなく、持続可能な成長戦略を優先するべきだと考えています。
     1.  To secure the long-term profits, I think we should prioritize sustainable growth strategies rather than sticking to short-term ones.
+    2.  secure the long-term profits: 長期的な利益を確保する
+    3.  sustainable growth strategies: 持続可能な成長戦略
+    4.  sticking to short-term profits: 短期的な利益に固執する
 32. この新しいプロジェクトには、他の部署との緊密な連携が不可欠であり、情報共有とコミュニケーションを円滑に行うことが重要です。
     1.  Close colaboration with other departments is essential for this new project, and it is important to share information and communicate smoothly.
+    2.  Close colaboration: 緊密な連携
+    3.  communicate smoothly: コミュニケーションを円滑に行う
 33. 新しいプロジェクトが始まる前に、予想されるリスクとその対策を十分に検討しておくべきだ。
     1.  Before the new project starts, we should consider the expected risks and the solutions carefully.
 34. その会議で提示された提案は、非常に興味深いものでしたが、実現可能性についてはまだ多くの疑問が残っています。
     1.  The suggestion presented at the meeting was very interesting, but there are still many questions about its feasibility.
+    2.  The suggestion presented at the meeting: その会議で提示された提案
+    3.  about its feasibility: 実現可能性について
 35. 彼が何度も強調していたのは、成功のためにはチーム全体の協力が不可欠であるという点でした。
     1.  What he emphasized repeatedly was that the cooperation of the entire team is essential for success.
+    2.  What he emphasized repeatedly: 彼が何度も強調していた
 36. あなたがその資料を完成させたら、内容を簡単に説明してもらえるとありがたいです。
     1.  I would appreciate it if you could briefly explain the contents once you have completed the materials.
+    2.  would appreciate it if: 〜してもらえるとありがたいです
+    3.  briefly explain the contents: 内容を簡単に説明する
 37. これまでの分析を基に、来年の市場動向についていくつかの仮説を立ててみました。
     1.  Based on the analysis so far, I have come up with several hypotheses about next year's market trends.
+    2.  Based on the analysis so far: これまでの分析を基に
+    3.  come up with several hypotheses: いくつかの仮説を立てる
 38. 仮にこの提案が承認されなかった場合でも、次のステップを見据えて準備を進めるべきだと思います。
     1. If this proposal is not approved, I thinks we should progress the preparation with an eye on the next step.
+    2. If this proposal is not approved: 仮にこの提案が承認されなかった場合
+    3. progress the preparation: 準備を進める
+    4. with an eye on the next step: 次のステップを見据えて
 39. この計画の成功には、効率的なリソース管理だけでなく、関係者との適切なコミュニケーションも欠かせません。
     1. The success of this plan requires not only efficient resource management but also appropriate communication with stakeholders.
 40. この製品の最大の特徴は、ユーザーが簡単にカスタマイズできる柔軟性にあります。
     1.  The biggest feature of this product is its flexibility that allows users to customize it easily.
+    2.  The biggest feature of this product: この製品の最大の特徴
 41. クライアントとのミーティングでは、こちらの提案だけでなく、彼らの要望にも十分耳を傾ける必要があります。
     1.  In meetings with clients, it is necessary to listen carefully to their requests as well as present our proposals.
+    2.  listen carefully to their requests: 彼らの要望に十分耳を傾ける
+    3.  as well as: 〜だけでなく
 42. 最初の段階で予想されていたよりも多くの課題が発生したため、全体のスケジュールを再調整する必要が出てきました。
     1.  We need to rearrange the overall schedule because more issues occurred than expected at the initial stage.
 
@@ -491,7 +559,7 @@
   - that's all: 以上です
 - Recently, I've been working on creating a new questionnaire. It's challenging because it's my first time doing this. I need to consider what questions to ask our customers and what incentives to offer to motivate them to awnser. I have to take many different perspectives into account to design it effectively.
   - take ~ into account: 考慮に入れる
-- Yes, my role is as a produst manager, which involves overssing the over all product planning, creating the product roadmap, and defining the product vision.
+- Yes, my role is as a produst manager, which involves overseeing the over all product planning, creating the product roadmap, and defining the product vision.
 - Thank you for your assistance. I'm sure I'll enjoy shopping.
 - Okay, so I'll let you know if i need any help while i'm trying on the clothes.
   - I'll let you know if I need any help: 必要なら助けを求める
